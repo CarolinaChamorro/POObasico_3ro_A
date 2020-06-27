@@ -1,6 +1,6 @@
 # Programación Orientada a Objetos (POO) en C#
 ## Aplicación den consola :bulb:
-### Tema: Conversación dentro de un almacén.  \
+### Tema: Conversación dentro de un almacén.  
 El programa debe contener : :notebook_with_decorative_cover:  \
 -[x] Al menos 4 clases. \
 -[x] Cada clase debe tener al menos 4 atributos y 4 métodos. \
